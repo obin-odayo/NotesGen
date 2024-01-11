@@ -1,5 +1,7 @@
 # NotesGen
 
+* Created by: Zhean Robby L. Ganituen (Github: [Obin Odayo](https://github.com/obin-odayo/))
+* Contact: [Email](mailto:obin.odayo@gmail.com)
 * Notes Generator with static templating and wikilinks.
 * Only using Markdown, HTML, CSS, Python, and Pandoc.
 * Created on January 11, 2023.
