@@ -93,9 +93,6 @@ def webber(fileMD, index=0):
         content = file.read()
 
     with open(fileHTML, "w") as file:
-        # clear file
-        file.truncate(0)
-
         file.write("<!DOCTYPE html>")
         file.write("<html lang=\"en\">")
         file.write("<head>")

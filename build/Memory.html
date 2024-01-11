@@ -1,57 +1,80 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" href="/style.css"><title>docs\Memory</title></head><body><a class="button" href="/index.html">Go back</a><h1 id="memory">Memory</h1>
-<p>The total memory usage of an array can be determined using the
-<code>sizeof()</code> operator.</p>
-<p><strong>Example:</strong></p>
-<pre><code>int A[] = {10, 23, 11, 63, -55, 99, -20, 88};
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style.css" />
+    <title>docs\Memory</title>
+  </head>
+  <body>
+    <a class="button" href="/index.html">Go back</a>
+    <h1 id="memory">Memory</h1>
+    <p>
+      The total memory usage of an array can be determined using the
+      <code>sizeof()</code> operator.
+    </p>
+    <p><strong>Example:</strong></p>
+    <pre><code>int A[] = {10, 23, 11, 63, -55, 99, -20, 88};
 printf(&quot;%d&quot;, (int) sizeof(A));</code></pre>
-<p>The total memory allocated of an array can be calculated using the
-formula:</p>
-<p><span class="math display">Total
-Memory = dimension × <em>n</em><sub>elements</sub> × <em>n</em><sub>bytes</sub></span></p>
-<blockquote>
-<p><code>int A[8] = {10, 23, 11, 63, -55, 99, -20, 88};</code><br />
-The total size of <code>A</code> is not 8 (this is the number of
-elements).<br />
-The total size of <code>A</code> is <span
-class="math inline">1 × 8 × 4 = 32</span>.<br />
-Since <code>A</code> is one-dimensional, the <span
-class="math inline">dimension</span> of <code>A</code> is 1.</p>
-</blockquote>
-<h1 id="size-of-data-types">Size of Data Types</h1>
-<p>The <span class="math inline"><em>n</em><sub>bytes</sub></span> can
-be retrived from the table below.</p>
-<table>
-<thead>
-<tr class="header">
-<th>Data Type</th>
-<th>Size (32-bit)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>char</td>
-<td>1 byte</td>
-</tr>
-<tr class="even">
-<td>int</td>
-<td>4 bytes</td>
-</tr>
-<tr class="odd">
-<td>long</td>
-<td>8 bytes</td>
-</tr>
-<tr class="even">
-<td>float</td>
-<td>4 bytes</td>
-</tr>
-<tr class="odd">
-<td>double</td>
-<td>8 bytes</td>
-</tr>
-<tr class="even">
-<td>pointer</td>
-<td>8 bytes</td>
-</tr>
-</tbody>
-</table>
-</body></html>
+    <p>
+      The total memory allocated of an array can be calculated using the
+      formula:
+    </p>
+    <p>
+      <span class="math display"
+        >Total Memory = dimension × <em>n</em><sub>elements</sub> × <em>n</em
+        ><sub>bytes</sub></span
+      >
+    </p>
+    <blockquote>
+      <p>
+        <code>int A[8] = {10, 23, 11, 63, -55, 99, -20, 88};</code><br />
+        The total size of <code>A</code> is not 8 (this is the number of
+        elements).<br />
+        The total size of <code>A</code> is
+        <span class="math inline">1 × 8 × 4 = 32</span>.<br />
+        Since <code>A</code> is one-dimensional, the
+        <span class="math inline">dimension</span> of <code>A</code> is 1.
+      </p>
+    </blockquote>
+    <h1 id="size-of-data-types">Size of Data Types</h1>
+    <p>
+      The <span class="math inline"><em>n</em><sub>bytes</sub></span> can be
+      retrived from the table below.
+    </p>
+    <table>
+      <thead>
+        <tr class="header">
+          <th>Data Type</th>
+          <th>Size (32-bit)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="odd">
+          <td>char</td>
+          <td>1 byte</td>
+        </tr>
+        <tr class="even">
+          <td>int</td>
+          <td>4 bytes</td>
+        </tr>
+        <tr class="odd">
+          <td>long</td>
+          <td>8 bytes</td>
+        </tr>
+        <tr class="even">
+          <td>float</td>
+          <td>4 bytes</td>
+        </tr>
+        <tr class="odd">
+          <td>double</td>
+          <td>8 bytes</td>
+        </tr>
+        <tr class="even">
+          <td>pointer</td>
+          <td>8 bytes</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
