@@ -1,4 +1,10 @@
-To access variables inside an array use the **[[indexing operation]]**.
+# Array
+
+A data structure variable that stores **groups** of elements of the data that are [[homogenous]].
+
+# Accessing Elements
+
+To access [[elements]] inside an array use the **[[indexing operation]]**.
 
 Arrays are initially filled with [[garbage values]] until values are initialized.
 
@@ -10,4 +16,4 @@ An [[illegal memory access]] occurs when the index of an indexing operation is *
 > > To access 23 in `A`: `A[1]`  
 > > Array indexing always starts at 0
 
-To determine the size of the array in the [[Memory]]  the `sizeof` operator can be used.
+To determine the size of the array in the [[memory]]  the `sizeof` operator can be used.

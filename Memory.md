@@ -1,3 +1,5 @@
+# Memory
+
 The total memory usage of an array can be determined using the `sizeof()` operator.
 
 **Example:**
@@ -15,7 +17,7 @@ $$\text{Total Memory} = \text{dimension} \times n_\text{elements} \times n_\text
 > The total size of `A` is $1 \times 8 \times 4 = 32$.  
 > Since `A` is one-dimensional, the $\text{dimension}$ of `A` is 1.
  
-### Memory Size of Data Types
+# Size of Data Types
 
 The $n_\text{bytes}$ can be retrived from the table below.
 

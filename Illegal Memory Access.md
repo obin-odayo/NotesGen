@@ -1,4 +1,6 @@
-Illegal index when the memory illegally accessed.
+# Illegal Memory Access
+
+An illegal memory acces is when the memory illegally accessed; when the program tries to access a memory location that **does not exist** or is inaccessible.
 
 Illegal indexing is a **logical error**.
 

@@ -1,3 +1,5 @@
+# Indexing Operation
+
 Also known as subscript operation. Is used to accessing the value stored in an array.
 
 > `int A[] = {10, 23, 11, 63, -55, 99, -20, 88};`

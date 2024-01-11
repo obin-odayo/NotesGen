@@ -1,3 +1,5 @@
+# Garbage Values
+
 Undetermined values inside a memory location.
 
 > `int x; `
@@ -6,6 +8,6 @@ Undetermined values inside a memory location.
 > `int x = 0;`
 > > Now `x` is initialized with a value therefore it does not have garbage values inside it anymore.
 
-## Declaration and Definition 
+# Declaration and Definition 
 
 During **declaration**, the [[array]] will be filled with garbage values, but during the **definition** it will be filled with the initialized values.
