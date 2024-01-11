@@ -2,6 +2,12 @@
 
 A data structure variable that stores **groups** of elements of the data that are [[homogenous]].
 
+Elements are stored in [[contiguous]] memory which is [[static]]ally allocated.
+
+Common types of Arrays:  
+1. List: for **one-dimensional** array.
+2. Table: for **two-dimensional** array.
+
 # Accessing Elements
 
 To access [[elements]] inside an array use the **[[indexing operation]]**.
