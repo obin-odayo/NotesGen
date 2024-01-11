@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "a64fde18b1200659",
+    "type": "split",
+    "children": [
+      {
+        "id": "6618e668d340633a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6da7db80253f9259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2de18140918aa99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2632d6e36412ec02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aec1beb4936c22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f25fdc71df5caf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed9b2e83837d4ac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cce906fa8a592086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1900741e3c0a6040",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daf34b45810723c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae3f97f930a3ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a05e1bc02796201",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Memory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dbba0149b2f0a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29864590df4af152",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a815e18d4be5c24a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Memory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2632d6e36412ec02",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Memory.md",
+    "Indexing Operation.md",
+    "Illegal Memory Access.md",
+    "Array.md",
+    "Garbage Values.md",
+    "Array.exe",
+    "Array.c",
+    "Welcome.md"
+  ]
+}
