@@ -11,11 +11,11 @@ Common types of Arrays:
 
 ## Accessing Elements
 
-To access [[elements]] inside an array use the **[[indexing operation]]**.
+To access [[elements]] inside an array use the **[[Indexing-Operation]]**.
 
-Arrays are initially filled with [[Garbage Values]] until values are initialized.
+Arrays are initially filled with [[Garbage-Values]] until values are initialized.
 
-An [[illegal memory access]] occurs when the index of an indexing operation is **outside the range of the array**.
+An [[Illegal-Memory-Access]] occurs when the index of an indexing operation is **outside the range of the array**.
 
 > `int A[8] = {10, 23, 11, 63, -55, 99, -20, 88};`
 > > To access 10 in `A`: `A[0]`  

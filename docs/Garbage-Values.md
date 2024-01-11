@@ -9,4 +9,4 @@ Undetermined values inside a [[Memory]] location.
 
 ## Declaration and Definition
 
-On **[[Array Declaration]]**, the [[Array]] will be filled with garbage values, but during the **definition** it will be filled with the initialized values.
+On **[[Array-Declaration]]**, the [[Array]] will be filled with garbage values, but during the **definition** it will be filled with the initialized values.
