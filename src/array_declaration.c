@@ -27,5 +27,6 @@ int main(){
     char nameA[100], nameB[100];   // array data type   char
                                    // array names       nameA, nameB
                                    // array sized       100, 100
+
     return 0;
 }
