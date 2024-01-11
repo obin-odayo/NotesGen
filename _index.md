@@ -5,13 +5,13 @@
 
 ## Contents
 
-1. [[Array Declaration.md]]
-2. [[Array.md]]
-3. [[Contiguous.md]]
-4. [[Element.md]]
-5. [[Garbage Values.md]]
-6. [[Homogenous.md]]
-7. [[Illegal Memory Access.md]]
-8. [[Indexing Operation.md]]
-9. [[Memory.md]]
-10. [[Static.md]]
+1. [[Array Declaration]]
+2. [[Array]]
+3. [[Contiguous]]
+4. [[Element]]
+5. [[Garbage Values]]
+6. [[Homogenous]]
+7. [[Illegal Memory Access]]
+8. [[Indexing Operation]]
+9. [[Memory]]
+10. [[Static]]

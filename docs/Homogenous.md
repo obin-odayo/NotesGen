@@ -6,4 +6,4 @@ Are data with the same data type.
 > `int y = 5;`
 > `x` and `y` are homogenous because they have the same type `int`.
  
-> An [[array]] is always homogenous since they the [[array declaration]] specified the data type.
+> An [[Array]] is always homogenous since they the [[Array Declaration]] specified the data type.

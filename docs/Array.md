@@ -13,7 +13,7 @@ Common types of Arrays:
 
 To access [[elements]] inside an array use the **[[indexing operation]]**.
 
-Arrays are initially filled with [[garbage values]] until values are initialized.
+Arrays are initially filled with [[Garbage Values]] until values are initialized.
 
 An [[illegal memory access]] occurs when the index of an indexing operation is **outside the range of the array**.
 
