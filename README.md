@@ -5,6 +5,7 @@
 * Notes Generator with static templating and wikilinks.
 * Only using Markdown, HTML, CSS, Python, and Pandoc.
 * Created on January 11, 2023.
+* Last Updates: January 14, 2023
 
 ## Requirements
 
@@ -77,3 +78,9 @@ To build notes one-by-one simply execute the following commands in the command l
 2. `.> webber : _name_of_file.md`
 
 This will only create the HTML file of the selected file.
+
+### Need More Help?
+
+Input the command `?` in the program.
+
+If issue persists submit an issue or contact me!
